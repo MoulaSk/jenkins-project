@@ -399,6 +399,18 @@
             <div class="content">
              Currently working on Jenkins
             </div>
+           <span class="tag">Process</span>
+          </div>
+          <div class="status-item">
+            <div class="date">April 18, 2025</div>
+            <div class="content">
+              Successfully Test Our Code using SonarQube
+            </div>
+            <span class="tag">Completed</span>
+          </div>
+ <div class="content">
+              Successfully run the nexus file
+            </div>
            
         </div>
     </div>
