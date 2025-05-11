@@ -394,20 +394,12 @@
 
         <div class="status-section">
           <h3>Jenkins Project</h3>
-          <div class="status-item">
-            <div class="date">April 17, 2025</div>
+          <div class="status">
+            <div class="date">may 11, 2025</div>
             <div class="content">
              Currently working on Jenkins
             </div>
-            <span class="tag">Process</span>
-          </div>
-          <div class="status-item">
-            <div class="date">April 18, 2025</div>
-            <div class="content">
-              Successfully Test Our Code using SonarQube
-            </div>
-            <span class="tag">Completed</span>
-          </div>
+           
         </div>
     </div>
   </body>
